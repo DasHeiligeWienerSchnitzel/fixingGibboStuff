@@ -111,7 +111,7 @@ _ER32_list = [
 		"FlexibleTank_01_forest_F",
 		[
 		
-		]s
+		]
 	],
 	[
 		"Spare Wheel",
